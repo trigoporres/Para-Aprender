@@ -1,2 +1,2 @@
 # Para-Aprender
-Repositorio de recursos Java script
+Repositorio de recursos 
